@@ -45,15 +45,15 @@ where I can further develop my work experience and learning curve
   <img alt="Object Oriented Programming" src="https://img.shields.io/badge/Object%20Oriented%20Programming-EE4C2C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-FF6B6B?style=flat-square&logo=treehouse&logoColor=white" />
   <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0081CB?style=flat-square&logo=code&logoColor=white" />
-![java](https://img.shields.io/badge/-power%20bi-05122A?style=flat&logo=power-bi)
-![manual](https://img.shields.io/badge/-Tableau-05122A?style=flat&logo=Tableau&logoColor=563D7C)&nbsp;
+![java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=power-bi)
+![manual](https://img.shields.io/badge/-Manual_Testing-05122A?style=flat&logo=Tableau&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Sql.server](https://img.shields.io/badge/-sql%20server-05122A?style=flat&logo=sql-server&logoColor=339933)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Ms.Office](https://img.shields.io/badge/-ms%20office-05122A?style=flat&logo=ms-office)&nbsp;
-![Api](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![Api](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Api)&nbsp;
 
 
 
