@@ -9,15 +9,18 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data-Analyst%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#c4f157&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and data analyst
+- 🏢 I'm a Software Test Engineer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👀 I’m interested in Data driven solutions
-- 🌱 I’m currently Searching for a Role as a Data Analyst
-- 💞️ I’m looking to collaborate on PYTHON, SQL, EXCEL and DATA VIZUALIZATION PROJECTS Using POWERBI or TABLEAU
-- 💞️ In my free time, you can find me experimenting with new data visualization techniques and trying to make sense of my own personal data.
-- 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for data analysis. Let's turn data into knowledge together!
+- 👀 I’m interested in quality and discover bugs
+- 🌱 I’m currently Searching for a Role as a  Software Test Engineer
+- 💞️ I’m looking to collaborate on PYTHON, SQL,Api,java and manual Projects Using Googlesheet or Excel
+- 💞️ In my free time, you can find me experimenting with new testing techniques and trying to make sense of my own personal test.
+- 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for software testing. Let's turn tesing into knowledge together!
 - 📫 How to reach me eslamzmkan41@gmail.com
-- 💬 I am a data analyst with experience in using various tools and technologies to collect, organize, and analyze data to inform business decisions. I am proficient in Python, SQL, Excel, Power BI, and Tableau, and have a solid understanding of data analytics techniques such as dashboard building, report writing, data mining, data merging, statistics, and critical thinking
+- 💬 As an ambitious Software Testing Engineer, an ITI Trainee and a Computer Science graduate with
+a solid understanding of testing methodologies, I have gained hands-on experience in both manual 
+and automated testing methodologies. I am currently seeking a role in a collaborative environment 
+where I can further develop my work experience and learning curve
 
 ### Connect with Me :
 <a href="mailto:eslamzmkan41@gmail.com">
