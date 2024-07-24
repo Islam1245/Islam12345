@@ -53,7 +53,7 @@ where I can further develop my work experience and learning curve
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Ms.Office](https://img.shields.io/badge/-ms%20office-05122A?style=flat&logo=ms-office)&nbsp;
-![Api](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Api)&nbsp;
+![Api](https://img.shields.io/badge/-Api-05122A?style=flat&logo=Api)&nbsp;
 
 
 
