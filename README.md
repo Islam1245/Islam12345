@@ -13,7 +13,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 👀 I’m interested in quality and discover bugs
 - 🌱 I’m currently Searching for a Role as a  Software Test Engineer
-- 💞️ I’m looking to collaborate on PYTHON, SQL,Api,java and manual Projects Using Googlesheet or Excel
+- 💞️ I’m looking to collaborate on PYTHON, SQL,Api,java and manual Projects Using googlesheet or Excel
 - 💞️ In my free time, you can find me experimenting with new testing techniques and trying to make sense of my own personal test.
 - 🌱 On this GitHub, you'll find a collection of my projects and resources that showcase my skills and my love for software testing. Let's turn tesing into knowledge together!
 - 📫 How to reach me eslamzmkan41@gmail.com
