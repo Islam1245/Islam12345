@@ -26,7 +26,7 @@ where I can further develop my work experience and learning curve
 <a href="mailto:eslamzmkan41@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/islam-zamkan-6812511b2/">
+<a href="https://www.linkedin.com/in/eslam-gamal-889473311/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 <a href="https://leetcode.com/islam74/">
